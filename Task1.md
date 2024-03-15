@@ -11,4 +11,4 @@
 
 Скриншот SSH-подключения к установленной системе с запущенным mc.
 
-<image src="C:\Users\user\PycharmProjects\Linux\hw1.png">
+<image src="hw1.png">
