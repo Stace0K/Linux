@@ -8,3 +8,9 @@
 *Установленный Docker Engine*
 <image src="hw7.1.png">
 
+*Запущенные контейнеры*
+<image src="hw7.2.png">
+<image src="hw7.3.png">
+
+*Открывшаяся страница Wordpress с регистрацией*
+<image src="hw7.4.png">
